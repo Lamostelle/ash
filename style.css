@@ -19,3 +19,9 @@ nav.menu-nav ul li a{
 nav.menu-nav ul li:hover a{
 	color: blue;
 }
+
+#footer p {
+	color: white;
+	font-weight: bold;
+	position: relative;
+	top: 15px;
