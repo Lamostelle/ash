@@ -1,0 +1,21 @@
+body{
+	background-color: #44a1c4;
+}
+
+nav.menu-nav ul li{
+	display: inline-block;
+	list-style-type: none;
+	width: 200px;
+	text-align: center;
+	margin-left: 175px;
+}
+
+nav.menu-nav ul li a{
+	text-decoration: none;
+	color: white;
+	font-size: 20px;
+}
+
+nav.menu-nav ul li:hover a{
+	color: blue;
+}
